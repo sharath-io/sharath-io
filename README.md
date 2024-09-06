@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I am Sharath
 ⭐ I aspire to be a Full Stack Developer<br><br>💡 I love tech and extremely excited to build products from scratch<br><br>✅ I am a B.Tech Computer Science Graduate<br><br>📌 I have 1 year of Professional Experience of working as an SAP consultant in an MNC
 
 
